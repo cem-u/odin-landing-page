@@ -1,0 +1,1 @@
+This repository contains my assignment for The Odin Project, where I create a basic landing page using beginner HTML and CSS. The project focuses on foundational web development skills.
