@@ -103,6 +103,8 @@ button {
 
 .gallery-content {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     margin-top: 50px;
     gap: 60px;
 }
