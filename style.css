@@ -92,3 +92,38 @@ button {
     font-weight: bold;
     color: #F9FAF8;    
 }
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3%;    
+    padding-bottom: 8%;
+}
+
+.gallery-content {
+    display: flex;
+    margin-top: 50px;
+    gap: 60px;
+}
+
+.gallery-content-container-box {
+    width: 175px;
+    height: 175px;
+    margin-bottom: 12px;
+    border: 5px solid #3882F6;
+    border-radius: 16px;
+}
+
+.gallery-content-container-text {
+    width: 175px;
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2947;
+}
