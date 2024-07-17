@@ -180,6 +180,11 @@ h3 {
     color: #F9FAF8;
 }
 
+.action-container-text-subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .action button {    
     align-self: center;
     padding: 6px 32px;
