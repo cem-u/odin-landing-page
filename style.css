@@ -82,7 +82,7 @@ p {
     color: #E5E7EB;
 }
 
-button {    
+.hero button {    
     margin-top: 12px;
     padding: 6px 32px;
     background-color: #3882F6;
@@ -127,7 +127,7 @@ h2 {
     margin: 0;
     font-size: 36px;
     font-weight: 900;
-    color: #1f2947;
+    color: #1F2937;
 }
 
 .quote {
@@ -155,4 +155,50 @@ h2 {
 .quote-container-citation {
     align-self: flex-end;
     font-size: 24px;
+}
+
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6% 0;
+}
+
+.action-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    border-radius: 8px;
+    width: 70%;
+    background-color: #3882F6;
+}
+
+h3 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.action button {    
+    align-self: center;
+    padding: 6px 32px;
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #F9FAF8; 
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 2% 0;
+    background-color: #1F2937;
+}
+
+.footer-text {
+    font-size: 18px;
+    color: #E5E7EB;
 }
